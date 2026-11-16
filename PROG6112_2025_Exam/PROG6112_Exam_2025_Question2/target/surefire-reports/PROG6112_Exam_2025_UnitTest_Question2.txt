@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: PROG6112_Exam_2025_UnitTest_Question2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s -- in PROG6112_Exam_2025_UnitTest_Question2

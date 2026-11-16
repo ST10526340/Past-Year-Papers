@@ -1,0 +1,7 @@
+ESTATE AGENT REPORT
+******************************AGENT LOCATION: Cape Town
+AGENT NAME: joe
+PROPERTY PRICE: R100000.0
+COMMISSION PERCENTAGE: 10% 
+CALCULATED COMMISSION: R0.0
+******************************
